@@ -20,7 +20,7 @@ Below is a meme I made using the R package [{magick}](https://cran.r-project.org
 My Inspiration/ Ideas for the Meme:
 
 1. The Yamero Cat Meme was one of my Inpirations.
-2. I also took Inspiration from a Gru meme and decided to combine the two.
-![]("https://i.kym-cdn.com/photos/images/newsfeed/001/349/947/2e9.jpg")
+2. I also took Inspiration from a Gru meme as Shown below and decided to combine the two.
+![](https://i.kym-cdn.com/photos/images/newsfeed/001/349/947/2e9.jpg)
 
-I Have provided the `R` code below which I used to make the meme!
+The meme Ive made is new/original as it uses a combination of two memes to make something unique and funny.
