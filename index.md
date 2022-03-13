@@ -26,7 +26,7 @@ My Inspiration/ Ideas for the Meme:
 The meme Ive made is new/original as it uses a combination of two memes to make something unique and funny.
 
 Below IvE Attached the code which i used to make the meme.
-```{r}
+```
 #Importing All Cat Photos
 library(magick)
 
