@@ -19,7 +19,8 @@ Below is a meme I made using the R package [{magick}](https://cran.r-project.org
 
 My Inspiration/ Ideas for the Meme:
 
-1. The Yamero Cat Meme which happens to be one of my favourite memes
-2. I took inspiration from this Meme and decide to make my very own.
+1. The Yamero Cat Meme was one of my Inpirations.
+2. I also took Inspiration from a Gru meme and decided to combine the two.
+![]("https://i.kym-cdn.com/photos/images/newsfeed/001/349/947/2e9.jpg")
 
-I also probably should provide the `R` code I used to make the meme!
+I Have provided the `R` code below which I used to make the meme!
