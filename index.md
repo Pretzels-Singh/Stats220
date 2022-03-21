@@ -3,7 +3,7 @@
 **Welcome To My Stats 220 Repo!** 
 
 ## About me
-I am a Second Year University Of Auckland student studing a Bachelors of Computer Science and Statistics.
+I am a Second Year University Of Auckland student studying a Bachelors of Computer Science and Statistics.
 
 **My Hobbies Include:**
 - Anime
@@ -12,20 +12,21 @@ I am a Second Year University Of Auckland student studing a Bachelors of Compute
 - Gaming
 
 ## *Memes!!!*
-I Love browsing memes in my spare time therefore decided to make on of my very own.
+I enjoy browsing memes in my leisure time, so I decided to create one of my own.
 Below is a meme I made using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
 ![](my_meme.png)
 
 My Inspiration/ Ideas for the Meme:
 
-1. The Yamero Cat Meme was one of my Inpirations.
-2. I also took Inspiration from a Gru meme as Shown below and decided to combine the two.
+1. One of my sources of inspiration was the Yamero Cat Meme.
+2. I was also inspired by a Gru meme, which you can see below, and wanted to mix the two.
 ![](https://i.kym-cdn.com/photos/images/newsfeed/001/349/947/2e9.jpg)
 
-The meme Ive made is new/original as it uses a combination of two memes to make something unique and funny.
+The meme I created is new/original in that it combines two memes to create something unique and amusing.
 
-Below IvE Attached the code which i used to make the meme.
+I've included the code that I used to create the meme below.
+
 ```
 #Importing All Cat Photos
 library(magick)
